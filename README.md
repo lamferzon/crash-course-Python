@@ -16,16 +16,16 @@ Python è uno degli strumenti più potenti e versatili per il data analytics. Gr
 
 ## Struttura del corso 💪
 
-|    #    |            Lezione            |          Descrizione          |    Disponibile online    | In presenza |
+|    #    |            Lezione            |          Descrizione          |        Disponibile       | In presenza |
 |---------|-------------------------------|-------------------------------|--------------------------|-------------|
-|    1    | **Introduzione a Python**     | Le basi del linguaggio        | Sì                       | No          |
+|    1    | [**Introduzione a Python**](Lezioni/1.%20Introduzione%20a%20Python.ipynb)     | Basi del linguaggio           | Sì                       | No          |
 |    2    | **Python per l'analisi dati** | Introduzione alle librerie    | In arrivo                | No          |
 |    3    | **Caso di studio**            | Esempio di model training     | In arrivo                | Sì          |
 
 **Nota**: si consiglia la visione delle prime due lezioni prima dell'esercitazione in presenza in programma a fine novembre.
 
 ## Anaconda e JupyterLab 🐍
-**Anaconda** è una distribuzione open-source di Python e R progettata per facilitare il lavoro di data science e machine learning. Include oltre 1.500 pacchetti preinstallati e strumenti per la gestione dei pacchetti e degli ambienti. Invece, **JupyterLab** è un ambiente di sviluppo interattivo open-source per la programmazione e l'analisi dei dati. È il successore di **Jupyter Notebook** e offre un'interfaccia più moderna e flessibile. JupyterLab consente di combinare codice eseguibile, testo (in Markdown), visualizzazioni, e documentazione all'interno di un'unica interfaccia.
+**Anaconda** è una distribuzione open-source di Python e R progettata per facilitare il lavoro di data science e machine learning. Include oltre 1.500 pacchetti preinstallati e strumenti per la gestione dei pacchetti e degli ambienti. Invece, **JupyterLab** è un ambiente di sviluppo interattivo open-source per la programmazione e l'analisi dati. È il successore di **Jupyter Notebook** e offre un'interfaccia più moderna e flessibile. JupyterLab consente di combinare codice eseguibile, testo (in Markdown), visualizzazioni, e documentazione all'interno di un'unica interfaccia.
 
 ### Installazione di Anaconda
 
