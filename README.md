@@ -2,6 +2,9 @@
 
 # Crash course in Python - AA 2024/2025
 
+## Nota
+Si consiglia di **clonare** il repository per avere sempre a portata di fetch e pull le ultime modifiche e aggiornamenti.
+
 ## Chi sono 👋
 Ciao a tutti, mi chiamo **Lorenzo Leoni**, ho 26 anni e lavoro come data scientist in [Tesmec](https://www.tesmec.com/it), un'azienda specializzata nella produzione di macchinari per infrastrutture destinate al trasporto energetico. Ho conseguito la laurea magistrale in ingegneria informatica seguendo il percorso DSDE (Data Science and Data Engineering), che mi ha permesso di approfondire sia le competenze di analisi dei dati sia gli aspetti ingegneristici del settore. A partire da dicembre 2023, sono anche tutor di statistica e collaboro con il prof. Metulini e la dott.ssa Giampino. Per chi volesse contattarmi o conoscermi meglio, ecco i miei recapiti:
 - **Email**: lorenzo.leoni1998@gmail.com
