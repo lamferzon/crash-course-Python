@@ -23,7 +23,7 @@ Python è uno degli strumenti più potenti e versatili per il data analytics. Gr
 |    #    |            Lezione            |          Descrizione          |        Disponibile       | In presenza |
 |---------|-------------------------------|-------------------------------|--------------------------|-------------|
 |    1    | [**Introduzione a Python**](Lezioni/1.%20Introduzione%20a%20Python.ipynb)     | Basi del linguaggio           | Sì                       | No          |
-|    2    | **Python per l'analisi dati** | Introduzione alle librerie    | In arrivo                | No          |
+|    2    | [**Python per l'analisi dati**](Lezioni/2.%20Python%20per%20l'analisi%20dati.ipynb) | Introduzione alle librerie    | Sì                | No          |
 |    3    | **Caso di studio**            | Esempio di model training     | In arrivo                | Sì          |
 
 **Nota**: si consiglia la visione delle prime due lezioni prima dell'esercitazione in presenza in programma a fine novembre.
