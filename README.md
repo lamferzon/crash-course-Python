@@ -1,12 +1,12 @@
 ![Logo DIGIP UniBG](https://digip.unibg.it/sites/dip3/files/logo-dip-it.svg)
 
-# Crash course in Python - AA 2024/2025
+# Crash course in Python - AA 2025/2026
 
 ## Nota
 Si consiglia di **clonare** il repository per avere sempre a portata di fetch e pull le ultime modifiche e aggiornamenti.
 
 ## Chi sono 👋
-Ciao a tutti, mi chiamo **Lorenzo Leoni**, ho 26 anni e lavoro come data scientist in [Tesmec](https://www.tesmec.com/it), un'azienda specializzata nella produzione di macchinari per infrastrutture destinate al trasporto energetico. Ho conseguito la laurea magistrale in ingegneria informatica seguendo il percorso DSDE (Data Science and Data Engineering), che mi ha permesso di approfondire sia le competenze di analisi dei dati sia gli aspetti ingegneristici del settore. A partire da dicembre 2023, sono anche tutor di statistica e collaboro con il prof. Metulini e la dott.ssa Giampino. Per chi volesse contattarmi o conoscermi meglio, ecco i miei recapiti:
+Ciao a tutti, mi chiamo **Lorenzo Leoni**, ho 27 anni e lavoro come data scientist in [Tesmec](https://www.tesmec.com/it), un'azienda specializzata nella produzione di macchinari per infrastrutture destinate al trasporto energetico. Ho conseguito la laurea magistrale in ingegneria informatica seguendo il percorso DSDE (Data Science and Data Engineering), che mi ha permesso di approfondire sia le competenze di analisi dei dati sia gli aspetti ingegneristici del settore. A partire da dicembre 2023, sono anche tutor di statistica e collaboro con il prof. Metulini e la dott.ssa Giampino. Per chi volesse contattarmi o conoscermi meglio, ecco i miei recapiti:
 - **Email**: lorenzo.leoni1998@gmail.com
 - **GitHub**: [https://github.com/lamferzon](https://github.com/lamferzon)
 - **LinkedIn**: [https://www.linkedin.com/in/lorenzo-leoni-273399265/](https://www.linkedin.com/in/lorenzo-leoni-273399265/)
@@ -24,9 +24,9 @@ Python è uno degli strumenti più potenti e versatili per il data analytics. Gr
 |---------|-------------------------------|-------------------------------|--------------------------|-------------|
 |    1    | [**Introduzione a Python**](Lezioni/1.%20Introduzione%20a%20Python.ipynb)     | Basi del linguaggio           | Sì                       | No          |
 |    2    | [**Python per l'analisi dati**](Lezioni/2.%20Python%20per%20l'analisi%20dati.ipynb) | Introduzione alle librerie    | Sì                | No          |
-|    3    | [**Caso di studio**](Lezioni/3.%20Caso%20di%20studio.ipynb)            | Esempio di model training     | Sì               | Sì          |
+|    3    | [**Caso di studio**](Lezioni/3.%20Caso%20di%20studio.ipynb)            | Esempio di model training     | No               | Sì          |
 
-**Nota**: si consiglia la visione delle prime due lezioni prima dell'esercitazione in presenza in programma a fine novembre.
+**Nota**: si consiglia la visione delle prime due lezioni prima dell'esercitazione in presenza in programma nella prima metà di dicembre.
 
 ## Anaconda e JupyterLab 🐍
 **Anaconda** è una distribuzione open-source di Python e R progettata per facilitare il lavoro di data science e machine learning. Include oltre 1.500 pacchetti preinstallati e strumenti per la gestione dei pacchetti e degli ambienti. Invece, **JupyterLab** è un ambiente di sviluppo interattivo open-source per la programmazione e l'analisi dati. È il successore di **Jupyter Notebook** e offre un'interfaccia più moderna e flessibile. JupyterLab consente di combinare codice eseguibile, testo (in Markdown), visualizzazioni, e documentazione all'interno di un'unica interfaccia.
